@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ./mvnw spring-boot:run
 ```
 
-The application will be available at `http://localhost:8080`
+The application will be available at `http://localhost:8081`
 
 ## Understanding Query By Example
 
