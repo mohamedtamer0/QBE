@@ -8,7 +8,7 @@ Query By Example (QBE) is a user-friendly querying technique that allows you to 
 
 ## Project Requirements
 
-- Java 23
+- Java 17
 - Spring Boot 3.3.5
 - PostgreSQL
 - Docker (for running the database)
